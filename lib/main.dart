@@ -3,7 +3,7 @@ import 'package:plugins_java/src/app.dart';
 
 void main() {
   runApp(MaterialApp(
-      title: 'Twitter Channel',
+      title: 'Java Channel',
       theme: ThemeData(primarySwatch: Colors.green),
       home: App()));
 }
